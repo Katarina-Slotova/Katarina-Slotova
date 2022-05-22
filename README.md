@@ -46,3 +46,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" title="Vim" alt="Vim" width="40px" height="40px"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+
+### :fire: My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Katarina-Slotova&theme=dark&background=000000)](https://git.io/streak-stats)
+
