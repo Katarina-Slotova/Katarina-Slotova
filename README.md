@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 </div>
 
 ### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Katarina-Slotova&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=mobahug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
