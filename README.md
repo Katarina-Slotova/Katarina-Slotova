@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 ### A little bit about me:
 - :woman_technologist: I'm a future Software Engineer & Cybersecurity Specialist.
 - 🐝 I'm a member of 42 Network at Hive Helsinki coding school.
-- 🔭 I’m currently working on: how to start my own first web server, install and manage several services and secure the server.
+- 🔭 At school, I’m currently working on: how to start my own first web server, install and manage several services and secure the server.
+- 🤔 On side, I’m currently working on: Network Exploitation Basics (TryHackMe), Cyber Security Base 2022 (University of Helsinki, MOOC.fi, F-Secure)
 - 🌱 I’m currently learning: C, Bash, Web development, Cybersecurity
 - 📫 Let's get in touch on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katarina-slotova-804466131/)
 - ⚡ What else I'm passionate about: baking, Bodycombat, egyptology, Formula 1
