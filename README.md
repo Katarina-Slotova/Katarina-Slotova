@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 - 📫 Let's get in touch on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katarina-slotova-804466131/)
 - ⚡ What else I'm passionate about: baking, Bodycombat, egyptology, Formula 1
 
+<br/>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" height="40px" width="40px"/>&nbsp;
@@ -46,6 +48,8 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" title="Vim" alt="Vim" width="40px" height="40px"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+
+<br/>
 
 ### :fire: My Stats:
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Katarina-Slotova&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
