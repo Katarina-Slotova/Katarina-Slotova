@@ -17,6 +17,9 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
 </div>
 <div id="greeting" align="center">
-  <h1>Hi there! I'm Katarina<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h1>Hi there! I'm Katarina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 <br/>
+<div align="center">
+  <img src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif" width="600" height="300"/>
+</div>
