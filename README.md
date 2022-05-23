@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 </div>
 
 ### A little bit about me:
-- :woman_technologist: I'm a future Software Engineer & Cybersecurity Specialist.
-- 🐝 I'm a member of 42 Network at Hive Helsinki coding school.
+- :woman_technologist: Future Software Engineer & Cybersecurity Specialist.
+- 🐝 Member of 42 Network at Hive Helsinki coding school.
 - 🔭 At school, I’m currently working on: how to start my own first web server, install and manage several services and secure the server.
 - 🤔 On the side, I’m currently working on: Network Exploitation Basics (TryHackMe), Cyber Security Base 2022 (University of Helsinki, MOOC.fi, F-Secure)
 - 🌱 I’m currently learning: C, Bash, Web development, Cybersecurity
