@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 <br/>
 <div align="center">
-  <img src="https://as2.ftcdn.net/v2/jpg/03/25/18/45/1000_F_325184520_AvHnGZ5HBm1D8em7qpR98UoquY9VmLCm.jpg" width="800" height="300"/> 
+  <img src="https://as2.ftcdn.net/v2/jpg/03/25/18/45/1000_F_325184520_AvHnGZ5HBm1D8em7qpR98UoquY9VmLCm.jpg" width="1000" height="300"/> 
 </div>
 
 ### A little bit about me:
