@@ -17,11 +17,11 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
 </div>
 <div id="greeting" align="center">
-  <h1>Hello world! I'm Katarina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h1>Hello world! I'm Katarina <img src="https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_1280.png" width="800" height="350"/></h1>
 </div>
 <br/>
 <div align="center">
-  <img src="https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_1280.png" width="800" height="350"/> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </div>
 
 ### A little bit about me:
