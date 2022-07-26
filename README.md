@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
 </div>
+
 ### A little bit about me:
 - :woman_technologist: Future Software Engineer.
 - 🐝 Member of 42 Network at Hive Helsinki coding school.
