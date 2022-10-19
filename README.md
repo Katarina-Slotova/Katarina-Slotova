@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - :woman_technologist: Future Software Engineer.
 - 🐝 Member of 42 Network at Hive Helsinki coding school.
 - 🔭 At school, I’m currently building an Instagram-like web app using HTML, CSS, PHP and Vanilla JS.
-- 🤔 On the side, I’m currently working on: Network Exploitation Basics (TryHackMe), Cyber Security Base 2022 (University of Helsinki, MOOC.fi, F-Secure)
+- 🤔 On the side, I’m currently working on: Network Exploitation Basics (TryHackMe)
 - 🌱 I’m currently learning: Bash, Web development, Git
 - 📫 Let's get in touch on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katarina-slotova-804466131/)
 - ⚡ What recharges my batteries: baking, Bodycombat, egyptology, Formula 1
