@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### A little bit about me:
 - :woman_technologist: Future Software Engineer.
 - 🐝 Member of 42 Network at Hive Helsinki coding school.
-- 🔭 At school, I have just finished building an Instagram-like web app called [Camagru](https://github.com/Katarina-Slotova/Camagru-hive) using HTML, CSS, PHP and Vanilla JS.
+- 🎓 At school, I have just finished building an Instagram-like web app called [Camagru](https://github.com/Katarina-Slotova/Camagru-hive) using HTML, CSS, PHP and Vanilla JS.
 - 🤔 On the side, I’m currently deepdiving into modern web development with University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course
 - 🌱 I’m learning: JavaScript, ReactJS, Node.js, Redux
 - 📫 Let's get in touch on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katarina-slotova-804466131/)
