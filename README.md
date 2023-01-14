@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 ### A little bit about me:
 - :woman_technologist: Future Software Engineer.
 - 🐝 Member of 42 Network at [Hive Helsinki](https://www.hive.fi/en/) coding school.
-- 🎓 At school, I'm building a dating web app called [Matcha](https://github.com/Katarina-Slotova/Matcha) using ReactJS, Redux, Node.js, Express.js, Postgres and Bootstrap.
+- 🎓 At school, I'm working on a group project - a dating web app called [Matcha](https://github.com/JuhoKangas/matcha) using ReactJS, Redux, Node.js, Express.js, Postgres and Tailwind CSS.
 - 🤔 On the side, I’m currently deepdiving into modern web development with University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course and having fun learning about cyber security with [TryHackMe's](https://tryhackme.com/) learning paths
-- 🌱 I’m learning: JavaScript, ReactJS, Node.js, Redux, Postgres
+- 🌱 I’m learning: JavaScript, ReactJS, Node.js, Redux, Postgres, Tailwind CSS
 - 📫 Let's get in touch on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katarina-slotova-804466131/)
 - ⚡ What recharges my batteries: baking, Bodycombat, egyptology, Formula 1
 
