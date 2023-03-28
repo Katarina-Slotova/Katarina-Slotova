@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 🤔 On the side, I’m currently deepdiving into modern web development with University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course and having fun learning about cyber security with [TryHackMe's](https://tryhackme.com/) learning paths
 - 🌱 I’m learning: TypeScript, JavaScript, ReactJS, Node.js, PostgreSQL, TailwindCSS
 - 📫 Let's get in touch on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katarina-slotova-804466131/)
-- ⚡ What charges my batteries: baking, Bodycombat, egyptology, Formula 1
+- ⚡ What charges my batteries: climbing, baking, Bodycombat, egyptology, Formula 1
 
 <br/>
 
