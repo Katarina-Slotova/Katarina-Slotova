@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 ### A little bit about me:
 - :woman_technologist: Software Developer.
 - 🐝 Member of 42 Network at [Hive Helsinki](https://www.hive.fi/en/) coding school.
-- 🎓 At school, I have recently finished my last project - a streaming platform called [Hypertube](https://github.com/JuhoKangas/hypertube) using ReactJS, Node.js, Express.js, PostgreSQL and Tailwind CSS.
+- 🎓 At school, I've completed all the projects in my core studies and now I'm looking for an internship.
 - 🤔 On the side, I’m currently deepdiving into modern web development with University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course and having fun learning about cyber security with [TryHackMe's](https://tryhackme.com/) learning paths
-- 🌱 I’m learning: TypeScript, JavaScript, ReactJS, Node.js, PostgreSQL, TailwindCSS
+- 🌱 I’m learning: TypeScript, Gatsby, JavaScript, ReactJS
 - 📫 Let's get in touch on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katarina-slotova-804466131/)
 - ⚡ What charges my batteries: climbing, baking, Bodycombat, egyptology, Formula 1
 
