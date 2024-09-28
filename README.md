@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - :woman_technologist: Software Developer.
 - 🐝 Member of 42 Network at [Hive Helsinki](https://www.hive.fi/en/) coding school.
 - 🎓 At school, I've completed all the projects in my core studies and now I'm looking for opportunities in full-stack or front-end web development.
-- 🤔 I'm currently participating in the [Women in Technology](https://accesemployment.ca/programs/programs-for-women/women-in-technology) program, one of the employment programs offered by ACCES Employment, where I'm enhancing my skills by learning Java. I'm also having fun learning about cyber security with [TryHackMe's](https://tryhackme.com/) learning paths
+- 🤔 I recently completed the [Women in Technology](https://accesemployment.ca/programs/programs-for-women/women-in-technology) program, an employment program offered by ACCES Employment. During the program, I enhanced my skills and began learning Java, a journey I'm continuing as I expand my expertise in web development. I'm also having fun learning about cyber security with [TryHackMe's](https://tryhackme.com/) learning paths
 - 🌱 I’m learning: Java, JavaScript, React
 - 📫 Let's get in touch on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katarina-slotova-804466131/)
 - ⚡ What charges my batteries: climbing, running, baking, Bodycombat, egyptology, Formula 1
